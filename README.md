@@ -1,4 +1,3 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/lotuscolley/jupyter_notebook_with_python/master?urlpath=lab)
 http://mybinder.org/v2/gh/lotuscolley/jupyter_notebook_with_python/master?urlpath=lab
 
 # R + Python Binder Example
