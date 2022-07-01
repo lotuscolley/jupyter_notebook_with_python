@@ -1,0 +1,12 @@
+{
+  "base_url": "/binder/jupyter/user/lotuscolley-jup-ook_with_python-7ikyl2bt/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 521,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "2uHZLLTRRa-RsbwG3IshnQ",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/lotuscolley-jup-ook_with_python-7ikyl2bt/"
+}
